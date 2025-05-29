@@ -34,7 +34,7 @@ and visit `localhost:[YOUR_DESIRED_PORT]` in Explorer, your training metrics wil
 
 ### Test the model
 
-Specify the model to be tested in `test_model.py`，and then run the same file.
+Specify the model to be tested in `test_model.py`，and run it. The TEST_MODEL is the experiment name you want to test. Refer to the logs directory to find the wanted experiment.
 
 ### Visiaulization and Utilities
 
