@@ -39,6 +39,8 @@ Specify the model to be tested in `test_model.py`，and then run the same file.
 ### Visiaulization and Utilities
 
 `split_dataset.py` helps to split the dataset into train set and eval set.
+
 `test_model.ipynb` contains some codes to visualize some results.
+
 `data_explore.ipynb` contains codes to checkout the dataset.
 
